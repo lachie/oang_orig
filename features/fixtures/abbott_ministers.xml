@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ministers>
+ <ministerofficegroup>
+  <moffice dept="" fromdate="1996-03-11" id="uk.org.publicwhip/moffice/329" matchid="uk.org.publicwhip/member/5" name="Tony John Abbott" position="Parliamentary Secretary to the Minister for Employment, Education, Training and Youth Affairs" source="" todate="1998-10-21"/>
+ </ministerofficegroup>
+ <ministerofficegroup>
+  <moffice dept="" fromdate="2002-03-19" id="uk.org.publicwhip/moffice/330" matchid="uk.org.publicwhip/member/5" name="Tony John Abbott" position="Leader of the House" source="" todate="2007-12-03"/>
+ </ministerofficegroup>
+ <ministerofficegroup>
+  <moffice dept="" fromdate="2001-11-26" id="uk.org.publicwhip/moffice/331" matchid="uk.org.publicwhip/member/5" name="Tony John Abbott" position="Minister for Employment and Workplace Relations" source="" todate="2003-10-07"/>
+ </ministerofficegroup>
+ <ministerofficegroup>
+  <moffice dept="" fromdate="1998-10-21" id="uk.org.publicwhip/moffice/332" matchid="uk.org.publicwhip/member/5" name="Tony John Abbott" position="Minister for Employment Services" source="" todate="2001-01-30"/>
+ </ministerofficegroup>
+ <ministerofficegroup>
+  <moffice dept="" fromdate="2001-01-30" id="uk.org.publicwhip/moffice/333" matchid="uk.org.publicwhip/member/5" name="Tony John Abbott" position="Minister for Employment, Workplace Relations and Small Business" source="" todate="2001-11-26"/>
+ </ministerofficegroup>
+ <ministerofficegroup>
+  <moffice dept="" fromdate="2003-10-07" id="uk.org.publicwhip/moffice/334" matchid="uk.org.publicwhip/member/5" name="Tony John Abbott" position="Minister for Health and Ageing" source="" todate="2007-12-03"/>
+ </ministerofficegroup>
+ <ministerofficegroup>
+  <moffice dept="" fromdate="2007-12-06" id="uk.org.publicwhip/moffice/885" matchid="uk.org.publicwhip/member/5" name="Tony John Abbott" position="Shadow Minister for Families, Community Services, Indigenous Affairs and the Voluntary Sector" source="" todate="2008-09-22"/>
+ </ministerofficegroup>
+ <ministerofficegroup>
+  <moffice dept="" fromdate="2008-09-22" id="uk.org.publicwhip/moffice/886" matchid="uk.org.publicwhip/member/5" name="Tony John Abbott" position="Shadow Minister for Families, Housing, Community Services and Indigenous Affairs" source="" todate="9999-12-31"/>
+ </ministerofficegroup>
+</ministers>

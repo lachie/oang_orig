@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+ <person id="uk.org.publicwhip/person/10005" latestname="Tony Abbott">
+  <office current="yes" id="uk.org.publicwhip/member/5"/>
+  <office id="uk.org.publicwhip/moffice/329"/>
+  <office id="uk.org.publicwhip/moffice/330"/>
+  <office id="uk.org.publicwhip/moffice/331"/>
+  <office id="uk.org.publicwhip/moffice/332"/>
+  <office id="uk.org.publicwhip/moffice/333"/>
+  <office id="uk.org.publicwhip/moffice/334"/>
+  <office id="uk.org.publicwhip/moffice/885"/>
+  <office current="yes" id="uk.org.publicwhip/moffice/886"/>
+ </person>
+</people>
