@@ -12,6 +12,7 @@ module OA
 
     def import_xmls!
       ::House.import_xmls!(@xmls)
+      self
     end
   end
 end

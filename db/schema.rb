@@ -9,12 +9,23 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20090622062423) do
+ActiveRecord::Schema.define(:version => 20090622091112) do
 
   create_table "electorates", :force => true do |t|
     t.string   "name"
     t.string   "slug"
     t.text     "note"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "hansard", :force => true do |t|
+    t.string   "parlinfo_url"
+    t.datetime "transcribed_at"
+    t.string   "section_identifier"
+    t.integer  "parent_id"
+    t.integer  "member_id"
+    t.text     "body"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

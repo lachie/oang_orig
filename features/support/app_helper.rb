@@ -109,6 +109,7 @@ module OA
 		namespace(:fixture,:Fixtures)
 		namespace(:member,:Member)
 		namespace(:house,:House)
+		namespace(:hansard,:Hansard)
 	end
 
 end
